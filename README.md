@@ -1,2 +1,0 @@
-# sitidob
-proyecto desarrollo sena
